@@ -1,0 +1,1 @@
+This project is inspired by the book "Complexity: A Guided Tour" and "Alternate Realities: Mathematical Models of Nature and Man". The subject of evolution is deterministic mathematical formulae. The selection pression comes from the subjective esthetic value of a picture converted from their function graphs. It comes with a lousy graphical interface.
